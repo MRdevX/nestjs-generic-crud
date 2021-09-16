@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.7](https://github.com/MRdevX/nestjs-generic-crud/compare/v0.0.6...v0.0.7) (2021-09-16)
+
+
+### Features
+
+* update readme ([8e8df57](https://github.com/MRdevX/nestjs-generic-crud/commit/8e8df57302d27ad7814e5a6dba9efa9f21e0a940))
+
 ### [0.0.6](https://github.com/MRdevX/nestjs-generic-crud/compare/v0.0.5...v0.0.6) (2021-09-16)
 
 
