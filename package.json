@@ -5,6 +5,10 @@
   "author": "Mahdi Rashidi - Back-End Engineer <m8rashidi@gmail.com>",
   "private": true,
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MRdevX/nestjs-generic-crud.git"
+  },
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
