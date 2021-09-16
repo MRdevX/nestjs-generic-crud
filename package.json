@@ -1,8 +1,8 @@
 {
   "name": "nestjs-generic-crud",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "A Simple CRUD Generic Library for NestJs Framework",
+  "author": "Mahdi Rashidi - Back-End Engineer <m8rashidi@gmail.com>",
   "private": true,
   "license": "MIT",
   "scripts": {
@@ -18,7 +18,8 @@
     "test:watch": "jest --watch",
     "test:cov": "jest --coverage",
     "test:debug": "node --inspect-brk -r tsconfig-paths/register -r ts-node/register node_modules/.bin/jest --runInBand",
-    "test:e2e": "jest --config ./test/jest-e2e.json"
+    "test:e2e": "jest --config ./test/jest-e2e.json",
+    "release": "npx standard-version"
   },
   "dependencies": {
     "@nestjs/common": "^8.0.0",
