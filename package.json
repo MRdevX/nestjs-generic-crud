@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "description": "A Simple CRUD Generic Library for NestJs Framework",
   "author": "Mahdi Rashidi - Back-End Engineer <m8rashidi@gmail.com>",
-  "private": true,
+  "private": false,
   "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
