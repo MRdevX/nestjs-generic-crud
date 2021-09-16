@@ -1,6 +1,6 @@
 {
   "name": "nestjs-generic-crud",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Simple CRUD Generic Library for NestJs Framework",
   "author": "Mahdi Rashidi - Back-End Engineer <m8rashidi@gmail.com>",
   "private": true,
